@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👩‍🎓 About Me
 
-<!--
-**Reyhaneh2001/Reyhaneh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  CS student at Amirkabir University of Technology (Tehran Polytechnic)  
+-  Passionate about AI for social good & biomedical data science  
+-  I enjoy building projects with real impact and purpose  
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Languages**: Python, SQL, Java, Javascript, C++
+-  **Data Science**: Pandas, NumPy, Matplotlib
+-  **Machine Learning**: Scikit-learn, XGBoost
+-  **Deep Learning**: TensorFlow, Keras, CNNs, Transfer Learning
+
+---
+
+## 🌍 Reach Me
+
+-  **LinkedIn**: https://www.linkedin.com/in/reyhaneh-moradi
+-  **Email**: reyhaneh1480@gmail.com  
+
+---
+
+## 🧭 Interests
+
+-  Machine learning and deep learning
+-  Bioinformatics & Healthcare AI  
+-  Problem Solving & Algorithmic Thinking  
