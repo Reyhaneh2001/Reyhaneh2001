@@ -1,7 +1,7 @@
 ## 👩‍🎓 About Me
 
 -  CS student at Amirkabir University of Technology (Tehran Polytechnic)  
--  Passionate about AI for social good & biomedical data science  
+-  Passionate about AI for social good & bioinformatics
 -  I enjoy building projects with real impact and purpose  
 ---
 
