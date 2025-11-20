@@ -1,7 +1,7 @@
 ## 👩‍🎓 About Me
 
 -  CS student at Amirkabir University of Technology (Tehran Polytechnic)  
--  Passionate about AI for social good & bioinformatics
+-  Passionate about AI for social good & Healthcare
 -  I enjoy building projects with real impact and purpose  
 ---
 
@@ -11,6 +11,7 @@
 -  **Data Science**: Pandas, NumPy, Matplotlib
 -  **Machine Learning**: Scikit-learn, XGBoost
 -  **Deep Learning**: TensorFlow, Keras, CNNs, Transfer Learning
+-  **LLMS**: Prompt engineering and AI agents (n8n)
 
 ---
 
@@ -24,5 +25,5 @@
 ## 🧭 Interests
 
 -  Machine learning and deep learning
--  Bioinformatics & Healthcare AI  
+-  Healthcare AI  
 -  Problem Solving & Algorithmic Thinking  
