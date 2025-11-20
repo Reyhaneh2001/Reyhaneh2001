@@ -11,7 +11,7 @@
 -  **Data Science**: Pandas, NumPy, Matplotlib
 -  **Machine Learning**: Scikit-learn, XGBoost
 -  **Deep Learning**: TensorFlow, Keras, CNNs, Transfer Learning
--  **LLMS**: Prompt engineering and AI agents (n8n)
+-  **LLMs**: Prompt engineering and AI agents (n8n)
 
 ---
 
